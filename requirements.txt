@@ -1,0 +1,10 @@
+gTTS
+playsound
+gradio
+requests
+numpy
+opencv-python
+inflect
+Pillow
+torch
+transformers
